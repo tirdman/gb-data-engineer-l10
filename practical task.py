@@ -1,5 +1,3 @@
-print('Test')
-
 """
 Задание.
 
@@ -29,17 +27,17 @@ TestCase, т.е. тестовый случай. В каждом тестовом
 модуля unittest.
 В каждом тесте должна быть строго одна функция из перечисленных.
 
-assertEqual(a, b)
-assertNotEqual(a, b)
-assertTrue(x)
-assertFalse(x)
-assertIs(a, b)
-assertIsNot(a, b)
-assertIsNone(x)
-assertIsNotNone(x)
-assertIn(a, b)
++assertEqual(a, b)
++assertNotEqual(a, b)
++assertTrue(x)
++assertFalse(x)
++assertIs(a, b)
++assertIsNot(a, b)
++assertIsNone(x)
++assertIsNotNone(x)
++assertIn(a, b)
 assertNotIn(a, b)
-assertIsInstance(a, b)
-assertNotIsInstance(a, b)
-assertRaises(Exception)
++assertIsInstance(a, b)
++assertNotIsInstance(a, b)
++assertRaises(Exception)
 """
